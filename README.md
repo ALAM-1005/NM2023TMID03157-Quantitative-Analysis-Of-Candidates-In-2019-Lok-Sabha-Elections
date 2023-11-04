@@ -1,5 +1,7 @@
 # Quantitative-Analysis-Of-Candidates-In-2019-Lok-Sabha-Elections
-#THIS IS OUR  Final NAAN MUDHALWAN PROJECT
+
+
+# THIS IS OUR  Final NAAN MUDHALWAN PROJECT
 The Lok Sabha, or House of the People, is the lower house of India’s bicameral Parliament, with the upper house being the Rajya Sabha. Members of the Lok Sabha are elected by an adult universal suffrage and a first-past-the-post system to represent their respective constituencies, and they hold their seats for five years or until the body is dissolved by the President on the advice of the council of ministers. The house meets in the Lok Sabha Chambers of the Sansad Bhavan, New Delhi.
 
 General elections were held in India in seven phases from 11 April to 19 May 2019 to elect the members of the 17th Lok Sabha. Votes were counted and the result was declared on 23 May. Around 912 million people were eligible to vote, and voter turnout was over 67 percent — the highest ever and the highest ever participation by women voters.
